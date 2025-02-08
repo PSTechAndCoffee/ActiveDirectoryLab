@@ -2,22 +2,21 @@
 
 <h1>Create Active Directory Home Lab</h1>
 
- ### [YouTube Guide Demonstration](https://www.youtube.com/watch?v=MHsI8hJmggI&t=2874s)
+<h2>YouTube Guide Demonstrations</h2>
+
+ ### [By Josh Madakor](https://www.youtube.com/watch?v=MHsI8hJmggI&t=2874s)
+ ### [By Jim Schultz](https://www.youtube.com/watch?v=aqA6bktFHoY&t=239s)
+ ### [By East Charmer](https://www.youtube.com/watch?v=GsmJowwIh8Q)
 
 <h2>Description</h2>
-I am currently working on setting up a basic home lab environment running Active Directory using Oracle Virtual Box following the intructions above in this Youtube video. Configuring and running this lab will help me to understand how active directory and Windows nextworking works. I have been using Active Directory to access System Center Configuration Manager (SCCM) and Remote Dekstop at my currecnt workplace, but this will be my first time configuring the Active Directory by myself which I am very excited about it. I will update my work here soon!
+I am currently working on setting up a basic home lab environment running Active Directory using VMware Workstation on PC and VMware Fusion Pro on Mac M1 following the intructions in these 3 YouTube videos above. Configuring and running this lab will help me to understand how active directory and Windows nextworking works. I have been using Active Directory to access System Center Configuration Manager (SCCM) and Remote Dekstop at my currecnt workplace, but this will be my first time configuring the Active Directory by myself which I am very excited about it. I will update my work here soon!
 <br />
 
 
-<h2>Languages and Utilities Used</h2>
-
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
-
 <h2>Environments Used </h2>
 
-- <b>Windows 10</b> (21H2)
-- <b>Server 2019</b> 
+- <b>Mac M1: Windows 11 Pro on VMware Fusion Pro</b> 
+- <b>Windows PC: Windows Server 2022 on VMware Workstation</b> 
 
 
 
