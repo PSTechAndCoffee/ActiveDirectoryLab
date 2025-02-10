@@ -18,6 +18,10 @@ I am currently working on setting up a basic home lab environment running Active
 - <b>Mac M1: Windows 11 Pro on VMware Fusion Pro</b> 
 - <b>Windows PC: Windows Server 2022 on VMware Workstation</b> 
 
+<p align="center">
+ 
+![IMG_7659](https://github.com/user-attachments/assets/6f01e019-6f04-4b8c-b77d-f8c9e79c2945)
+
 
 
 
