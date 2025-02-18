@@ -20,7 +20,8 @@ I am currently working on setting up a basic home lab environment running Active
 
 <p align="center">
  
-![IMG_7659](https://github.com/user-attachments/assets/6f01e019-6f04-4b8c-b77d-f8c9e79c2945)
+<img width="1100" alt="AD mapping" src="https://github.com/user-attachments/assets/f4f44d7f-a263-45d6-96e6-db09e6295333" />
+
 
 
 
