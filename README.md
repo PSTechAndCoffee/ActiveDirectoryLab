@@ -42,7 +42,7 @@ Install VMware Workstation on Windows PC and VMware Fusion Pro on Mac M1.
    ![Groups in each OU](https://github.com/user-attachments/assets/b85435bc-7771-4806-8bf2-530dfc0f3aa6)
    ![Create new user](https://github.com/user-attachments/assets/909c0c50-58b5-402f-a844-ac2bae2971a7)
 
-<h2>Create a VM for Winodws 11 Pro on VMware Fusion:</h2>
+<h2>Create a VM for Windows 11 Pro on VMware Fusion:</h2>
 Create a new virtual machine: PC1 and install Windows 11 Pro that comes with VMware Fusion. Let it run and restart.
 
 <img width="1390" alt="Create VM with Win11" src="https://github.com/user-attachments/assets/c15cfbb5-e8c3-4f8e-993f-7f958f41d0eb" />
