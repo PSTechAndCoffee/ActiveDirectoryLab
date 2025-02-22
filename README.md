@@ -33,7 +33,7 @@ Install VMware Workstation on Windows PC and VMware Fusion Pro on Mac M1.
 
 ![Install Server 2022](https://github.com/user-attachments/assets/42fa1f7e-e076-4e21-a702-46375713c99d)
 
-2. Installed Active Directory on DC-Server-2022. Promote the server to a Domain Controller (DC). 
+2. Install Active Directory on DC-Server-2022. Promote the server to a Domain Controller (DC). 
 ![Create AD in server](https://github.com/user-attachments/assets/aef82d8d-db64-47f8-ac0b-6af59e76c29b)
 
 3. Create an AD domain: DC.local. Restart the virtual machine.
@@ -62,7 +62,7 @@ Create a new virtual machine: PC1 and install Windows 11 Pro that comes with VMw
    
 <img width="877" alt="Screenshot 2025-02-17 at 1 46 29 PM" src="https://github.com/user-attachments/assets/f4c96aa4-b4b0-4c77-8629-73b306ad94ca" />
 
-4. Make sure I can ping DC from PC1 or can ping PC1 from DC. Then, PC1 should be ready to join DC.local.
+4. Make sure PC1 client VM can ping the Domain Controller DC.local. Then, PC1 should be ready to join DC.local.
    
 5. On PC1 client, under System Properties, join domain: DC.local. Enter account that will have permission to join domain, which is Administrator. Click ok and restart VM.
    
