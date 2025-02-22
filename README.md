@@ -9,7 +9,9 @@
  ### [By East Charmer](https://www.youtube.com/watch?v=GsmJowwIh8Q)
 
 <h2>Description</h2>
-I am currently working on setting up a basic home lab environment running Active Directory using VMware Workstation on PC and VMware Fusion Pro on Mac M1 following the intructions in these 3 YouTube videos above. Configuring and running this lab will help me to understand how active directory and Windows nextworking works. I have been using Active Directory to access System Center Configuration Manager (SCCM) and Remote Dekstop at my currecnt workplace, but this will be my first time configuring the Active Directory by myself which I am very excited about it!  
+I created a hands-on home lab environment to gain a deeper understanding of Active Directory and Windows networking. Using VMware Workstation on my PC and VMware Fusion Pro on my Mac M1, I followed a series of instructional YouTube videos to set up and configure the lab. This project allowed me to build and manage an Active Directory setup from scratch, significantly enhancing my practical knowledge.
+
+While I have been using Active Directory at my current workplace to access System Center Configuration Manager (SCCM) and Remote Desktop, this was my first experience configuring it independently. The process not only strengthened my technical skills but also deepened my understanding of how Active Directory integrates within a networked environment.
 <br />
 
 
