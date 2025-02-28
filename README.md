@@ -32,7 +32,7 @@ While I have been using Active Directory at my current workplace to access Syste
 - Create Domain Controller (DC) on Windows Server 2022
 - Create Organizations Units (OUs), groups, user accounts
 
-<b> On Macbook M1:</b> 
+<b> On Macbook M1:</b>
 - Install VMware Fusion
 - Install Windows 11 free package that comes with VMware Fushion
 - Join this client to DC
