@@ -24,6 +24,19 @@ While I have been using Active Directory at my current workplace to access Syste
  
 <img width="1100" alt="AD mapping" src="https://github.com/user-attachments/assets/f4f44d7f-a263-45d6-96e6-db09e6295333" />
 
+<h2>Overview of the tasks </h2>
+<b> On Windows PC:</b> 
+
+- Install VMware Workstation
+- Install Windows Server 2022 on VMware workstation
+- Create Domain Controller (DC) on Windows Server 2022
+- Create Organizations Units (OUs), groups, user accounts
+
+<b> On Macbook M1:</b> 
+- Install VMware Fusion
+- Install Windows 11 free package that comes with VMware Fushion
+- Join this client to DC
+
 <h2>Program walk-through:</h2>
 Install VMware Workstation on Windows PC and VMware Fusion Pro on Mac M1. 
 
@@ -37,7 +50,7 @@ Install VMware Workstation on Windows PC and VMware Fusion Pro on Mac M1.
 ![Create AD in server](https://github.com/user-attachments/assets/aef82d8d-db64-47f8-ac0b-6af59e76c29b)
 
 3. Create an AD domain: DC.local. Restart the virtual machine.
-4. Create organizations Units (OUs) for different departments, mine are USA and Thailand.
+4. Create Organizations Units (OUs) for different departments, mine are USA and Thailand.
    ![Create OU](https://github.com/user-attachments/assets/4b69bd57-413f-475c-81ea-b0abc10cdab9)
 5. Create user accounts and groups within the OUs.
    ![Group in OU](https://github.com/user-attachments/assets/454673a4-feda-43e0-8d08-2fa74402289b)
